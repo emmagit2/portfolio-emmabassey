@@ -113,7 +113,7 @@ function App() {
           aria-label="Emmanuel Edet Bassey home"
         >
           <img
-            src="/logo-mark.svg"
+            src="/images/logo-mark.svg"
             alt="Emmanuel Edet Bassey logo"
             className="wordmark-mark"
           />
