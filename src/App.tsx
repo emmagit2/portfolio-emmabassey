@@ -1,4 +1,3 @@
- 
 import {
   ArrowUpRight,
   BriefcaseBusiness,
@@ -21,12 +20,12 @@ import { useState } from 'react';
 const projects = [
   {
     number: '01',
-    title: 'Jobnix',
-    type: 'Career platform',
-    description: 'A practical digital experience connecting ambition with the next right opportunity.',
-    url: 'https://jobnix.ng',
-    className: 'project-jobnix',
-    image: '/images/Screenshot_2026-11-16_153030.png',
+    title: 'Multibest ICT',
+    type: 'Digital solutions',
+    description: 'A confident digital home for a technology brand helping businesses move forward.',
+    url: 'https://multibestict.netlify.app/',
+    className: 'project-multibest',
+    image: '/images/23.png',
   },
   {
     number: '02',
@@ -48,12 +47,12 @@ const projects = [
   },
   {
     number: '04',
-    title: 'Multibest ICT',
-    type: 'Digital solutions',
-    description: 'A confident digital home for a technology brand helping businesses move forward.',
-    url: 'https://multibestict.netlify.app/',
-    className: 'project-multibest',
-    image: '/images/23.png',
+    title: 'Jobnix',
+    type: 'Career platform',
+    description: 'A practical digital experience connecting ambition with the next right opportunity.',
+    url: 'https://jobnix.ng',
+    className: 'project-jobnix',
+    image: '/images/Screenshot_2026-11-16_153030.png',
   },
 ];
 
